@@ -1,15 +1,3 @@
-/*
-Theme Name: Jason Stroff
-
-  1. >>> Headr Style
-  2. >>> Banner Style
-  3. >>> About Style
-  4. >>> Skills Style
-  5. >>> Experience Style
-  6. >>> Work Style
-  7. >>> Footer Style
-
-*/
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------*/
@@ -44,7 +32,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-social{ list-style: none; display: flex; align-items: center; flex-wrap: wrap; }
 .ds-social li{ margin-left: 12px; }
 .ds-social li:first-child{ margin-left: 0; }
-.ds-social li a{ border-radius: 100%; color: #FFF; width: 24px; height: 24px; background-color: rgb(4, 177, 4); display:flex; justify-content: center; align-items: center; text-align: center; font-size: 16px; }
+.ds-social li a{ border-radius: 100%; color: #FFF; width: 24px; height: 24px; background-color: rgb(80, 99, 150); display:flex; justify-content: center; align-items: center; text-align: center; font-size: 16px; }
 .ds-social li a:hover{ background-color: #000; color: #FFF; }
 
 /*-----------------------------------------------------------------
@@ -56,17 +44,17 @@ svg,img { max-width: 100%; height: auto; }
 .ds-numbervalulist{ list-style: none; display: flex; align-items: center; flex-wrap: wrap; margin: 0; padding: 0; margin-top: 60px; }
 .ds-numbervalulist li{ margin-right: 60px; }
 .ds-numbervalulist li:last-child{ margin-right: 0; }
-.ds-numbervalulist strong{ display: block; color: rgb(4, 177, 4); font-size: 36px; font-weight: 800; }
+.ds-numbervalulist strong{ display: block; color: rgb(80, 99, 150); font-size: 36px; font-weight: 800; }
 .ds-numbervalulist span{ font-size: 16px; letter-spacing: 1px; }
 /*-----------------------------------------------------------------
   3. >>> About Style
 ----------------------------------------------------------------*/
 .ds-about-section{ padding-top: 60px; padding-bottom: 120px; }
-.ds-heading{ display: inline-block; font-weight: 700; color: #000; text-transform: uppercase; letter-spacing: 1px; font-size: 16px; border-bottom: 3px solid rgb(4, 177, 4); padding-bottom: 7px; margin-bottom: 23px; }
+.ds-heading{ display: inline-block; font-weight: 700; color: #000; text-transform: uppercase; letter-spacing: 1px; font-size: 16px; border-bottom: 3px solid rgb(80, 99, 150); padding-bottom: 7px; margin-bottom: 23px; }
 .ds-about-section p{ color: #373737; font-size: 24px; line-height: 40px; font-weight: 300; margin-bottom: 60px; }
 
-.ds-button{ display: inline-block; text-transform: uppercase;font-size: 12px;line-height: 13px;font-weight: 600;letter-spacing: 3px; color:rgb(4, 177, 4); padding:17px 30px;  border: 2px solid rgb(4, 177, 4);border-radius: 60px; }
-.ds-button:hover{ background-color:rgb(4, 177, 4) ; color: #FFF; }
+.ds-button{ display: inline-block; text-transform: uppercase;font-size: 12px;line-height: 13px;font-weight: 600;letter-spacing: 3px; color:rgb(80, 99, 150); padding:17px 30px;  border: 2px solid rgb(80, 99, 150);border-radius: 60px; }
+.ds-button:hover{ background-color:rgb(80, 99, 150) ; color: #FFF; }
 .ds-arrow-button i{ display: inline-block; vertical-align: middle; }
 /*-----------------------------------------------------------------
   4. >>> Skills Style
@@ -75,7 +63,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-skills-list{ list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; align-items: center; margin-top: 11px; }
 .ds-skills-list li{ display: inline-block; color: #373737; font-size: 16px; padding:10px 20px; background-color: #FFF; border: 1px solid #D7D7D7;
   border-radius: 27px; margin-right: 15px; margin-bottom: 15px;  font-weight: 500;}
-.ds-skills-list li:hover{ background-color:rgb(4, 177, 4) ; color: #FFF; }
+.ds-skills-list li:hover{ background-color:rgb(80, 99, 150) ; color: #FFF; }
 
 /*-----------------------------------------------------------------
   5. >>> Experience Style
